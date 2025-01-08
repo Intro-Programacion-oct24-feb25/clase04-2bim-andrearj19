@@ -23,11 +23,7 @@ public class Ejemplo081 {
         String mensaje = "";
         int numero;
         
-                                                         // se invoca al método 
-                                                       // obtenerTablaSumar
-                                                       // y el valor que 
-                                                       // devuelve se lo 
-                                                       // almacena  en mensajeSuma
+                                                         
          System.out.println("Ingresar el limite de la tabla a generar"); 
         limite = entrada.nextInt();
         
